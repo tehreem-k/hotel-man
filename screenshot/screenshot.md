@@ -1,19 +1,21 @@
 # Screenshots
 
-This document contains proof of all the important screenshots of the application, including setup, features, and outputs.
+This document contains proof of all the important screenshots.
 
 ---
 
-## **1. Project Structure**
+## **Sonar Cloud Setup**
 
-
-![](16.PNG)
+![](8.png)
+![](7.png)
+![](6.png)
+![](5.png)
+![](3.png)
 
 ---
 
-## **2. Clone Repository**
+## **Add Sonar Cloud Token in Github repo's secrets**
 
-
-![](6.PNG)
+![](4.png)
 
 ---
