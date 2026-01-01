@@ -1,6 +1,6 @@
 # Screenshots
 
-This document contains proof of all the important screenshots of the application, including setup, features, security configuration, and outputs.
+This document contains proof of all the important screenshots of the application, including setup, features, and outputs.
 
 ---
 
